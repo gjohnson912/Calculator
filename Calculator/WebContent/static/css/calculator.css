@@ -1,0 +1,15 @@
+div.keypad button {
+	width: 5em;
+	height: 5em;
+	margin: .25em;
+	font-weight: bold;
+}
+
+#calculationTextBox {
+	width: 18em;
+}
+
+#clearButton {
+	height: 3em;
+	vertical-align: top;
+}
